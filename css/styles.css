@@ -1,6 +1,7 @@
 body {
+    background: #FFF;
     font-family: 'Roboto', sans-serif; 
-    color: #2E2F42 ;   
+    color: #434455 ;  
 }
 
 .link {
@@ -24,20 +25,20 @@ background: #FFF;
 
 .logo {
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
 .logo-studio {
     color: #2E2F42;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -53,6 +54,10 @@ background: #FFF;
 .menu-link:hover,
 .menu-link:focus {
     color: #404BBF;
+}
+
+.main-address {
+    font-style: normal;
 }
 
 .address {
@@ -119,6 +124,10 @@ background: #FFF;
 }
 
 /* Section Our Team */
+
+.team-list{
+    background-color: #FFFFFF;
+}
 
 .team {
     background: #F4F4FD;
